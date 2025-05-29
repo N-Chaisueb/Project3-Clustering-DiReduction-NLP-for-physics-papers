@@ -8,20 +8,22 @@
 - Finally I used dimensionality reduction techniques for visualization.
 
 ## Data source
-ArXiv dataset: - open access to scholarly articles in scientific fields (physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics)
-               - operated by Cornell University
-               - provides only a metadata file in the json format
+ArXiv dataset: 
+- open access to scholarly articles in scientific fields (physics, mathematics, computer science, quantitative biology, quantitative finance, statistics, electrical engineering and systems science, and economics)
+- operated by Cornell University
+- provides only a metadata file in the json format
 
-Features: - id: ArXiv ID (can be used to access the paper, see below)
-          - submitter: Who submitted the paper
-          - authors: Authors of the paper
-          - title: Title of the paper
-          - comments: Additional info, such as number of pages and figures
-          - journal-ref: Information about the journal the paper was published in
-          - doi: [https://www.doi.org](Digital Object Identifier)
-          - abstract: The abstract of the paper
-          - categories: Categories / tags in the ArXiv system
-          - versions: A version history
+Features: 
+- id: ArXiv ID (can be used to access the paper, see below)
+- submitter: Who submitted the paper
+- authors: Authors of the paper
+- title: Title of the paper
+- comments: Additional info, such as number of pages and figures
+- journal-ref: Information about the journal the paper was published in
+- doi: [https://www.doi.org](Digital Object Identifier)
+- abstract: The abstract of the paper
+- categories: Categories / tags in the ArXiv system
+- versions: A version history
 
 ## Algorithms
 ### 1. K-means
