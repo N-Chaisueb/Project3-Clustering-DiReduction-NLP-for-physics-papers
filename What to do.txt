@@ -1,0 +1,2 @@
+https://cloud.google.com/vertex-ai/generative-ai/pricing?_gl=1*tnzhbm*_ga*MTEwMDcxOTQ0Ni4xNzM1NTIyMjA3*_ga_WH2QY8WWF5*czE3NjQ4NDQ5NjMkbzM3JGcxJHQxNzY0ODQ1MDQyJGo0NCRsMCRoMA..
+I want to calculate cost of using gemini 3 pro for model inference of these images. How much I have to pay for each image?
